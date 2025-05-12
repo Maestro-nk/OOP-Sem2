@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Маестро\source\repos\HomeTask\C++\Main.cpp(23,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Маестро\source\repos\HomeTask\C++\Main.cpp(39,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  C++.vcxproj -> C:\Users\Маестро\source\repos\HomeTask\x64\Debug\C++.exe
