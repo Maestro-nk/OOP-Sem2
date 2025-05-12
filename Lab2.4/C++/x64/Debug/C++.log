@@ -1,0 +1,5 @@
+﻿  Expression.cpp
+C:\Users\Маестро\source\repos\Lab2.4\C++\Expression.cpp(25,46): warning C4101: e: неиспользованная локальная переменная
+  main.cpp
+  Создание кода...
+  C++.vcxproj -> C:\Users\Маестро\source\repos\Lab2.4\x64\Debug\C++.exe
