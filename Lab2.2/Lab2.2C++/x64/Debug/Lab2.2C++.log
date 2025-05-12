@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Маестро\source\repos\Lab2.2\Lab2.2C++\main.cpp(20,25): error C2065: shapes: необъявленный идентификатор
+C:\Users\Маестро\source\repos\Lab2.2\Lab2.2C++\main.cpp(20,23): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\Маестро\source\repos\Lab2.2\Lab2.2C++\main.cpp(20,31): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
